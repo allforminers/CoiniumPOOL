@@ -1,0 +1,9 @@
+C:\Users\pc\Downloads\CoiniumServ-develop\CoiniumServ-develop\build\bin\Debug\App.config
+C:\Users\pc\Downloads\CoiniumServ-develop\CoiniumServ-develop\build\bin\Debug\CoiniumServ.exe.config
+C:\Users\pc\Downloads\CoiniumServ-develop\CoiniumServ-develop\build\bin\Debug\CoiniumServ.exe
+C:\Users\pc\Downloads\CoiniumServ-develop\CoiniumServ-develop\build\bin\Debug\CoiniumServ.pdb
+C:\Users\pc\Downloads\CoiniumServ-develop\CoiniumServ-develop\src\CoiniumServ\obj\Debug\CoiniumServ.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\CoiniumServ-develop\CoiniumServ-develop\src\CoiniumServ\obj\Debug\CoiniumServ.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\CoiniumServ-develop\CoiniumServ-develop\src\CoiniumServ\obj\Debug\CoiniumServ.csproj.CopyComplete
+C:\Users\pc\Downloads\CoiniumServ-develop\CoiniumServ-develop\src\CoiniumServ\obj\Debug\CoiniumServ.exe
+C:\Users\pc\Downloads\CoiniumServ-develop\CoiniumServ-develop\src\CoiniumServ\obj\Debug\CoiniumServ.pdb
